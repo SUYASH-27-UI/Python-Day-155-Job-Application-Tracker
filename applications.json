@@ -1,0 +1,31 @@
+
+[
+    {
+        "id": 1001,
+        "company": "Microsoft",
+        "role": "Python Developer",
+        "location": "Mumbai",
+        "status": "Interview"
+    },
+    {
+        "id": 1002,
+        "company": "Infosys",
+        "role": "Software Engineer",
+        "location": "Pune",
+        "status": "Applied"
+    },
+    {
+        "id": 1003,
+        "company": "TCS",
+        "role": "Data Analyst",
+        "location": "Mumbai",
+        "status": "Rejected"
+    },
+    {
+        "id": 1004,
+        "company": "Accenture",
+        "role": "Python Developer",
+        "location": "Pune",
+        "status": "Selected"
+    }
+]
